@@ -6,7 +6,7 @@
 
 # 🕷️ Awesome Web Scraping & Crawling Frameworks 🚀
 
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve) [![Track Awesome List](https://img.shields.io/badge/Track%20Awesome-List-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks?style=flat-square)](LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/blob/main/README.md#how-to-contribute) [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/stargazers)[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve) [![Track Awesome List](https://img.shields.io/badge/Track%20Awesome-List-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![GitHub license](https://img.shields.io/github/license/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks?style=flat-square)](LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/graphs/commit-activity) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/blob/main/README.md#how-to-contribute) [![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks?style=social)](https://github.com/ishandutta2007/Awesome-Web-Scraping-Crawling-Frameworks/stargazers)[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
 **A comprehensively curated directory of production-grade SaaS platforms, open-source crawlers, browser automation engines, proxy networks, and AI-powered web data extraction frameworks.**
 
@@ -69,65 +69,65 @@ The following table compares leading managed cloud web scraping APIs, enterprise
 
 ### ⭐ Ranked Open-Source Frameworks
 
-All open-source repositories below are ranked strictly by **GitHub star count (descending)**, featuring social star badges linking directly to each repository's stargazers community:
+All open-source repositories below are ranked strictly by **GitHub Stars_Count (descending)**, featuring social Stars_Badges linking directly to each repository's stargazers community:
 
-1. **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
+1. **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
    Turn entire websites into clean Markdown or structured JSON for LLM applications with automatic recursive crawling and dynamic JavaScript execution.
-2. **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+2. **[Browser-Use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
    Cutting-edge open-source framework enabling autonomous AI agents to interact with web browsers, click elements, solve forms, and extract deep page data.
-3. **[Scrapling](https://github.com/D4Vinci/Scrapling)** [![GitHub stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social&color=white)](https://github.com/D4Vinci/Scrapling/stargazers)  
+3. **[Scrapling](https://github.com/D4Vinci/Scrapling)** [![GitHub_Stars](https://img.shields.io/github/stars/D4Vinci/Scrapling?style=social&color=white)](https://github.com/D4Vinci/Scrapling/stargazers)  
    Adaptive, undetectable Python web scraping framework offering TLS-fingerprinted HTTP fetchers, stealth browser drivers, and Model Context Protocol (MCP) server integration.
-4. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+4. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    Fast, reliable cross-browser automation and web crawling framework for Chromium, Firefox, and WebKit supporting Python, Node.js, Java, and .NET.
-5. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+5. **[Puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
    High-level Node.js library to control headless Chrome or Chromium over the DevTools Protocol, ideal for DOM scraping and PDF/screenshot generation.
-6. **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+6. **[Crawl4AI](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
    Asynchronous, high-speed Python web crawler engineered specifically for LLMs, generating clean Markdown, chunked text, and structured JSON schemas.
-7. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
+7. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
    The industry-standard, high-speed asynchronous Python web scraping and web crawling framework equipped with rich middleware and pipeline ecosystems.
-8. **[Huginn](https://github.com/huginn/huginn)** [![GitHub stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
+8. **[Huginn](https://github.com/huginn/huginn)** [![GitHub_Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers)  
    Self-hosted agent workflow system that reads the web, watches for DOM/page updates, parses content, and triggers autonomous automated scraping pipelines.
-9. **[Changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers)  
+9. **[Changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub_Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers)  
    Self-hosted website change monitoring, DOM mutation tracking, and visual web scraping tool with Playwright integration and webhook notifications.
-10. **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers)  
+10. **[ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social&color=white)](https://github.com/ScrapeGraphAI/Scrapegraph-ai/stargazers)  
     Python web scraping library using Large Language Models and graph logic to automatically extract structured schemas without writing fragile CSS selectors.
-11. **[Crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+11. **[Crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
     Production-grade web scraping and browser automation library for Python and Node.js featuring automatic proxy rotation, autoscaling, and queue management.
-12. **[Colly](https://github.com/gocolly/colly)** [![GitHub stars](https://img.shields.io/github/stars/gocolly/colly?style=social&color=white)](https://github.com/gocolly/colly/stargazers)  
+12. **[Colly](https://github.com/gocolly/colly)** [![GitHub_Stars](https://img.shields.io/github/stars/gocolly/colly?style=social&color=white)](https://github.com/gocolly/colly/stargazers)  
     Lightning-fast, elegant scraping and crawling framework for Go capable of handling thousands of requests per second with automatic cookie and session handling.
-13. **[Maxun](https://github.com/getmaxun/maxun)** [![GitHub stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social&color=white)](https://github.com/getmaxun/maxun/stargazers)  
+13. **[Maxun](https://github.com/getmaxun/maxun)** [![GitHub_Stars](https://img.shields.io/github/stars/getmaxun/maxun?style=social&color=white)](https://github.com/getmaxun/maxun/stargazers)  
     Open-source, no-code web scraper with an interactive web UI to visually click, train extraction schemas, run custom spiders, and set scheduled tasks.
-14. **[Katana](https://github.com/projectdiscovery/katana)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/katana?style=social&color=white)](https://github.com/projectdiscovery/katana/stargazers)  
+14. **[Katana](https://github.com/projectdiscovery/katana)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/katana?style=social&color=white)](https://github.com/projectdiscovery/katana/stargazers)  
     Next-generation web crawling and spidering framework built in Go supporting both high-speed headless browser rendering and standard HTTP crawling.
-15. **[PySpider](https://github.com/binux/pyspider)** [![GitHub stars](https://img.shields.io/github/stars/binux/pyspider?style=social&color=white)](https://github.com/binux/pyspider/stargazers)  
+15. **[PySpider](https://github.com/binux/pyspider)** [![GitHub_Stars](https://img.shields.io/github/stars/binux/pyspider?style=social&color=white)](https://github.com/binux/pyspider/stargazers)  
     Full-featured web crawler architecture with web UI code editor, task monitor, job scheduler, and distributed worker execution.
-16. **[Newspaper4k](https://github.com/codelucas/newspaper)** [![GitHub stars](https://img.shields.io/github/stars/codelucas/newspaper?style=social&color=white)](https://github.com/codelucas/newspaper/stargazers)  
+16. **[Newspaper4k](https://github.com/codelucas/newspaper)** [![GitHub_Stars](https://img.shields.io/github/stars/codelucas/newspaper?style=social&color=white)](https://github.com/codelucas/newspaper/stargazers)  
     Full-text article scraping, news extraction, and metadata parsing library for Python with multi-language NLP tokenization.
-17. **[Camoufox](https://github.com/daijro/camoufox)** [![GitHub stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
+17. **[Camoufox](https://github.com/daijro/camoufox)** [![GitHub_Stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
     Anti-detect browser engine built on Firefox that spoof hardware fingerprints, WebRTC, and canvas metrics to bypass sophisticated anti-bot systems.
-18. **[SeleniumBase](https://github.com/seleniumbase/SeleniumBase)** [![GitHub stars](https://img.shields.io/github/stars/seleniumbase/SeleniumBase?style=social&color=white)](https://github.com/seleniumbase/SeleniumBase/stargazers)  
+18. **[SeleniumBase](https://github.com/seleniumbase/SeleniumBase)** [![GitHub_Stars](https://img.shields.io/github/stars/seleniumbase/SeleniumBase?style=social&color=white)](https://github.com/seleniumbase/SeleniumBase/stargazers)  
     All-in-one Python framework for browser automation and web scraping with UC Mode (Undetected-ChromeDriver) to seamlessly navigate past CAPTCHA challenges.
-19. **[Datasette](https://github.com/simonw/datasette)** [![GitHub stars](https://img.shields.io/github/stars/simonw/datasette?style=social&color=white)](https://github.com/simonw/datasette/stargazers)  
+19. **[Datasette](https://github.com/simonw/datasette)** [![GitHub_Stars](https://img.shields.io/github/stars/simonw/datasette?style=social&color=white)](https://github.com/simonw/datasette/stargazers)  
     An open-source multi-tool for exploring, querying, and publishing structured datasets produced by web scraping and crawling pipelines.
-20. **[Feroxbuster](https://github.com/epi052/feroxbuster)** [![GitHub stars](https://img.shields.io/github/stars/epi052/feroxbuster?style=social&color=white)](https://github.com/epi052/feroxbuster/stargazers)  
+20. **[Feroxbuster](https://github.com/epi052/feroxbuster)** [![GitHub_Stars](https://img.shields.io/github/stars/epi052/feroxbuster?style=social&color=white)](https://github.com/epi052/feroxbuster/stargazers)  
     Fast, recursive content discovery and multi-threaded web crawler written in Rust designed for rapid directory traversal and resource extraction.
-21. **[Trafilatura](https://github.com/adbar/trafilatura)** [![GitHub stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
+21. **[Trafilatura](https://github.com/adbar/trafilatura)** [![GitHub_Stars](https://img.shields.io/github/stars/adbar/trafilatura?style=social&color=white)](https://github.com/adbar/trafilatura/stargazers)  
     High-performance Python library and CLI tool designed for scraping main web text, article bodies, comments, and metadata without boilerplate noise.
-22. **[Node-Crawler](https://github.com/bda-research/node-crawler)** [![GitHub stars](https://img.shields.io/github/stars/bda-research/node-crawler?style=social&color=white)](https://github.com/bda-research/node-crawler/stargazers)  
+22. **[Node-Crawler](https://github.com/bda-research/node-crawler)** [![GitHub_Stars](https://img.shields.io/github/stars/bda-research/node-crawler?style=social&color=white)](https://github.com/bda-research/node-crawler/stargazers)  
     Production-ready Node.js web crawler featuring priority task queues, rate limiting, connection pooling, and Cheerio DOM parsing.
-23. **[Nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
+23. **[Nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub_Stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
     The async successor to Undetected-Chromedriver: drives Chrome directly via DevTools Protocol without `chromedriver` binaries, preventing bot-detection flags.
-24. **[Heritrix](https://github.com/internetarchive/heritrix3)** [![GitHub stars](https://img.shields.io/github/stars/internetarchive/heritrix3?style=social&color=white)](https://github.com/internetarchive/heritrix3/stargazers)  
+24. **[Heritrix](https://github.com/internetarchive/heritrix3)** [![GitHub_Stars](https://img.shields.io/github/stars/internetarchive/heritrix3?style=social&color=white)](https://github.com/internetarchive/heritrix3/stargazers)  
     The Internet Archive's web-scale, archival-grade open-source web crawler engineered for broad, multi-terabyte web archiving missions.
-25. **[Apache Nutch](https://github.com/apache/nutch)** [![GitHub stars](https://img.shields.io/github/stars/apache/nutch?style=social&color=white)](https://github.com/apache/nutch/stargazers)  
+25. **[Apache Nutch](https://github.com/apache/nutch)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nutch?style=social&color=white)](https://github.com/apache/nutch/stargazers)  
     Enterprise-scale, highly modular web crawler built on Apache Hadoop for massive distributed crawling and Solr/Elasticsearch ingestion.
-26. **[Spider](https://github.com/spider-rs/spider)** [![GitHub stars](https://img.shields.io/github/stars/spider-rs/spider?style=social&color=white)](https://github.com/spider-rs/spider/stargazers)  
+26. **[Spider](https://github.com/spider-rs/spider)** [![GitHub_Stars](https://img.shields.io/github/stars/spider-rs/spider?style=social&color=white)](https://github.com/spider-rs/spider/stargazers)  
     Blazing fast, concurrent web crawler and scraping engine written in Rust featuring decentralized multi-threading and headless Chrome integration.
-27. **[Frontera](https://github.com/scrapinghub/frontera)** [![GitHub stars](https://img.shields.io/github/stars/scrapinghub/frontera?style=social&color=white)](https://github.com/scrapinghub/frontera/stargazers)  
+27. **[Frontera](https://github.com/scrapinghub/frontera)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapinghub/frontera?style=social&color=white)](https://github.com/scrapinghub/frontera/stargazers)  
     Distributed crawl frontier framework designed by Zyte to scale Scrapy across large multi-worker server clusters with custom crawling policies.
-28. **[thClaws](https://github.com/thClaws/thClaws)** [![GitHub stars](https://img.shields.io/github/stars/thClaws/thClaws?style=social&color=white)](https://github.com/thClaws/thClaws/stargazers)  
+28. **[thClaws](https://github.com/thClaws/thClaws)** [![GitHub_Stars](https://img.shields.io/github/stars/thClaws/thClaws?style=social&color=white)](https://github.com/thClaws/thClaws/stargazers)  
     Native Rust AI agent harness providing scheduled background extraction jobs, headless browser workflows, and MCP server connectivity.
-29. **[Apache StormCrawler](https://github.com/apache/stormcrawler)** [![GitHub stars](https://img.shields.io/github/stars/apache/stormcrawler?style=social&color=white)](https://github.com/apache/stormcrawler/stargazers)  
+29. **[Apache StormCrawler](https://github.com/apache/stormcrawler)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/stormcrawler?style=social&color=white)](https://github.com/apache/stormcrawler/stargazers)  
     Open-source SDK for building scalable, low-latency stream-based web crawlers on top of Apache Storm for real-time extraction streams.
 
 ---
@@ -153,7 +153,7 @@ Contributions are wholeheartedly appreciated! 🎉 To contribute:
 
 1. **Fork** this repository. 🍴
 2. **Add or enhance** tools in `README.md` maintaining proper alphabetical or star-ranked order. 📝
-3. Provide: Name, direct URL, star badge link, concise descriptive summary, and category tags. 🏷️
+3. Provide: Name, direct URL, Stars_Badge link, concise descriptive summary, and category tags. 🏷️
 4. Submit a **Pull Request** detailing your changes. 🚀
 
 ---
