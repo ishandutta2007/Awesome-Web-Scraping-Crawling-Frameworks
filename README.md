@@ -69,7 +69,7 @@ The following table compares leading managed cloud web scraping APIs, enterprise
 
 ### ⭐ Ranked Open-Source Frameworks
 
-All open-source repositories below are ranked strictly by **GitHub Stars_Count (descending)**, featuring social Stars_Badges linking directly to each repository's stargazers community:
+All open-source repositories below are ranked strictly by **GitHub_Stars_Count (descending)**, featuring social Stars_Badges linking directly to each repository's stargazers community:
 
 1. **[Firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
    Turn entire websites into clean Markdown or structured JSON for LLM applications with automatic recursive crawling and dynamic JavaScript execution.
